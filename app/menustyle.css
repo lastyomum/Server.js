@@ -1,0 +1,12 @@
+body {
+    margin: 0px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif ;
+}
+
+.tokenHold {
+    background-color: whitesmoke;
+    width: 90%;
+    border-radius: 7px;
+    height: 100pt;
+    border: 1px solid black;
+}
